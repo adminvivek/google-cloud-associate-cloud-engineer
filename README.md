@@ -1,6 +1,6 @@
 # Google Cloud Associate Cloud Engineer
 
-Course Files for Google Cloud Associate Cloud Engineer Course by Antoni Tzavelas
+Course Files for Google Cloud Associate Cloud Engineer Course by Vivek Shukla
 
 If you feel that something should be corrected or updated please reach out and let me know at vivekshukla1992@gmail.com
 
